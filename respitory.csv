@@ -1,0 +1,34 @@
+Indicator,Time Period,Parent Code,Parent Name,Area Code,Area Name,Value,Lower CI,Upper CI,Count,Denominator,Sex,Age
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000001,City of London,,,,3,21777,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000002,Barking and Dagenham,56.5314955172078,47.7951064477613,66.3640580182091,158,553700,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000003,Barnet,20.9574529691506,17.6850912637914,24.6519471593386,150,1034383,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000004,Bexley,27.7420960293243,23.3540524391003,32.7108376251689,143,652995,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000005,Brent,27.5810114369253,23.2368717031664,32.4875477816236,149,904739,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000006,Bromley,24.3040600780173,20.8462899800442,28.167811574046,179,872366,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000007,Camden,31.7079906796502,26.3002909054968,37.8881678767776,124,654208,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000008,Croydon,35.3283738456318,30.9869808475193,40.0987906213509,248,1050988,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000009,Ealing,31.0104966456889,26.5580364307029,35.9857261517642,179,971788,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000010,Enfield,25.358827438924,21.408259889906,29.8190155757944,150,904419,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000011,Greenwich,45.8879356857781,39.4283145516711,53.0844231133969,189,754948,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000012,Hackney,44.469276875247,37.1476197058395,52.7526867663944,145,748086,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000013,Hammersmith and Fulham,32.8401230645823,26.2081250591549,40.6197017166352,87,514037,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000014,Haringey,32.6513763261597,27.0449008034075,39.0451818869506,128,758323,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000015,Harrow,25.5014002298051,21.2250734549833,30.3807955315272,127,680635,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000016,Havering,30.0226914932005,25.6884811693074,34.8750903615605,173,660747,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000017,Hillingdon,30.4463591128441,25.8750607140196,35.58363686578,162,807130,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000018,Hounslow,33.6680470844446,28.4175568265234,39.5887247902404,153,748245,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000019,Islington,37.8606293639875,31.1702367093771,45.5325699159617,118,622327,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000020,Kensington and Chelsea,20.3848295859992,15.692273029608,26.0301185116218,65,441149,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000021,Kingston upon Thames,26.5719657944675,21.1036309045256,32.9985966080403,85,469671,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000022,Lambeth,43.880198783562,37.4248095842161,51.0912848111758,180,909333,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000023,Lewisham,36.4625880935087,30.7400323118023,42.9181479881728,152,821350,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000024,Merton,29.0393354426127,23.629985484394,35.2982659735561,104,574488,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000025,Newham,38.099113054978,31.9250343745634,45.075374434467,148,927414,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000026,Redbridge,23.0331838187857,19.0815257970491,27.5444950356022,126,815380,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000027,Richmond upon Thames,22.3759778423817,17.7952808144515,27.7594170903115,85,536412,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000028,Southwark,37.6432820556173,31.5337185295129,44.5583559203092,144,862698,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000029,Sutton,31.0932230343353,25.795874226497,37.1472858844789,124,545799,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000030,Tower Hamlets,45.5497713938842,37.6079148172019,54.6163926601117,126,796475,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000031,Waltham Forest,34.267704011926,28.748898355686,40.5087864272842,146,758228,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000032,Wandsworth,29.3257628818735,24.3716664721303,34.9755742553048,128,892348,Persons,<75 yrs
+4.07i - Under 75 mortality rate from respiratory disease,2012 - 14,E12000007,London region,E09000033,Westminster,24.5038767765571,19.818021268491,29.9455806408116,99,647781,Persons,<75 yrs
